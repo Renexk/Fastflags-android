@@ -1,280 +1,88 @@
-{
-    "DFIntAnimationLodFacsVisibilityDenominator": "0",
-    "DFIntAssetPreloading": "2147483647",
-    "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
-    "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
-    "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
-    "DFIntCanHideGuiGroupId": "32380007",
-    "DFIntCharacterLoadTime": "1",
-    "DFIntContentProviderPreloadHangTelemetryHundredthsPercentage": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
-    "DFIntDebugFRMQualityLevelOverride": "1",
-    "DFIntDebugRestrictGCDistance": "1",
-    "DFIntHACDPointSampleDistApartTenths": "2147483647",
-    "DFIntMaxFrameBufferSize": "4",
-    "DFIntMemoryUtilityCurveBaseHundrethsPercent": "10000",
-    "DFIntMemoryUtilityCurveNumSegments": "100",
-    "DFIntMemoryUtilityCurveTotalMemoryReserve": "0",
-    "DFIntNumAssetsMaxToPreload": "2147483647",
-    "DFIntPreloadAvatarAssets": "2147483647",
-    "DFIntTeleportClientAssetPreloadingHundredthsPercentage": "100000",
-    "DFIntTeleportClientAssetPreloadingHundredthsPercentage2": "100000",
-    "DFIntTextureQualityOverride": "0",
-    "DFIntTrackCountryRegionAPIHundredthsPercent": "10000",
-    "DFIntVoiceChatVolumeThousandths": "5000",
-    "FFlagAssetPreloadingIXP": "True",
-    "FFlagBetaBadgeLearnMoreLinkFormview": "False",
-    "FFlagContentProviderPreloadHangTelemetry": "False",
-    "FFlagControlBetaBadgeWithGuac": "False",
-    "FFlagDebugCheckRenderThreading": "True",
-    "FFlagDebugDeterministicParticles": "False",
-    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
-    "FFlagDebugDisableTelemetryEphemeralStat": "True",
-    "FFlagDebugDisableTelemetryEventIngest": "True",
-    "FFlagDebugDisableTelemetryPoint": "True",
-    "FFlagDebugDisableTelemetryV2Counter": "True",
-    "FFlagDebugDisableTelemetryV2Event": "True",
-    "FFlagDebugDisableTelemetryV2Stat": "True",
-    "FFlagDebugForceFSMCPULightCulling": "True",
-    "FFlagDebugForceGenerateHSR": "True",
-    "FFlagDebugGraphicsPreferD3D11FL10": "True",
-    "FFlagDebugSSAOForce": "False",
-    "FFlagDebugSkyGray": "True",
-    "FFlagDisablePostFx": "True",
-    "FFlagEnableInGameMenuDurationLogger": "False",
-    "FFlagEnablePartyVoiceOnlyForEligibleUsers": "False",
-    "FFlagEnablePartyVoiceOnlyForUnfilteredThreads": "False",
-    "FFlagEnablePreferredTextSizeGuiService": "True",
-    "FFlagEnablePreferredTextSizeScale": "True",
-    "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
-    "FFlagEnablePreferredTextSizeStyleFixesInAppShell3": "True",
-    "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp": "True",
-    "FFlagFRMRefactor": "False",
-    "FFlagFastGPULightCulling3": "True",
-    "FFlagFixIGMTabTransitions": "True",
-    "FFlagFixOutdatedParticles2": "False",
-    "FFlagFixOutdatedTimeScaleParticles": "False",
-    "FFlagFixParticleAttachmentCulling": "False",
-    "FFlagFixParticleEmissionBias2": "False",
-    "FFlagFixSensitivityTextPrecision": "False",
-    "FFlagGraphicsEnableD3D10Compute": "True",
-    "FFlagHandleAltEnterFullscreenManually": "False",
-    "FFlagHighlightOutlinesOnMobile": "True",
-    "FFlagImproveShiftLockTransition": "True",
-    "FFlagLoginPageOptimizedPngs": "True",
-    "FFlagLuaMenuPerfImprovements": "True",
-    "FFlagLuauCodegen": "True",
-    "FFlagMessageBusCallOptimization": "True",
-    "FFlagNewLightAttenuation": "True",
-    "FFlagPreloadAllFonts": "True",
-    "FFlagPreloadTextureItemsOption4": "True",
-    "FFlagQuaternionPoseCorrection": "True",
-    "FFlagRenderCBRefactor2": "True",
-    "FFlagRenderLegacyShadowsQualityRefactor": "True",
-    "FFlagRenderNoLowFrmBloom": "False",
-    "FFlagRenderSkipReadingShaderData": "False",
-    "FFlagShaderLightingRefactor": "False",
-    "FFlagShoeSkipRenderMesh": "False",
-    "FFlagSimEnableDCD16": "True",
-    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-    "FFlagUserBetterInertialScrolling": "True",
-    "FFlagUserCameraControlLastInputTypeUpdate": "False",
-    "FFlagUserShowGuiHideToggles": "True",
-    "FFlagVideoServiceAddHardwareCodecMetrics": "True",
-    "FFlagVoiceBetaBadge": "False",
-    "FIntCameraMaxZoomDistance": "2147483647",
-    "FIntDebugFRMOptionalMSAALevelOverride": "0",
-    "FIntDebugForceMSAASamples": "0",
-    "FIntDirectionalAttenuationMaxPoints": "0",
-    "FIntFRMMaxGrassDistance": "0",
-    "FIntFRMMinGrassDistance": "0",
-    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
-    "FIntGrassMovementReducedMotionFactor": "0",
-    "FIntPreferredTextSizeSettingBetaFeatureRolloutPercent": "100",
-    "FIntRenderGrassDetailStrands": "0",
-    "FIntRenderLocalLightFadeInMs": "0",
-    "FIntRenderLocalLightUpdatesMax": "1",
-  "FFlagDebugDisplayFPS": "True",
-  "FFlagRenderShadowSkipHugeCulling": "True",
-  "FFlagAXAdaptiveScrollingAvatarEditor2": "True",
-  "FFlagRenderEnableGlobalInstancingD3D10": "True",
-  "FIntGrassMovementReducedMotionFactor": "0",
-  "DFFlagEnableSoundPreloading": "True",
-  "FFlagCoreGuiSelfViewVisibilityFixed": "False",
-  "FFlagUserFixLoadAnimationError": "True",
-  "FFlagSelfViewHumanoidNilCheck": "False",
-  "DFIntConnectionMTUSize": "1396",
-  "FFlagEnablePreferredTextSizeScalePerLayerCollector": "True",
-  "FFlagSelfViewMoreNilChecks": "False",
-  "DFFlagPhysicsMechanismCacheOptimizeAlloc": "True",
-  "DFIntVideoMaxNumberOfVideosPlaying": "0",
-  "DFFlagDebugSkipMeshVoxelizer": "True",
-  "FFlagToastNotificationsResendDisplayOnInit": "False",
-  "FFlagTopBarUseNewBadge": "False",
-  "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
-  "FFlagSelfViewRemoveVPFWhenClosed": "False",
-  "FFlagSelfViewUpdatedCamFraming": "False",
-  "DFIntCSGLevelOfDetailSwitchingDistance": "0",
-  "DFIntMaxFrameBufferSize": "4",
-  "FFlagWindowsReportAbuseNotification": "False",
-  "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
-  "FIntTerrainOTAMaxTextureSize": "4",
-  "FFlagDebugForceGenerateHSR": "True",
-  "FFlagSelfViewLookUpHumanoidByType": "False",
-  "DFFlagTeleportClientAssetPreloadingEnabledIXP2": "True",
-  "FFlagStudioDataCollectionAddBasicNotification": "False",
-  "FFlagEnableAudioPannerFiltering": "True",
-  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase637": "True",
-  "DFIntDefaultTimeoutTimeMs": "10000",
-  "DFFlagAudioUseVolumetricPanning": "True",
-  "FFlagVRMouseMoveOptimization": "True",
-  "FFlagToastNotificationsUpdateEventParams": "False",
-  "DFFlagNotificationServiceIsConnectedProperty": "False",
-  "DFIntCanHideGuiGroupId": "32380007",
-  "FFlagGraphicsGLEnableSuperHQShadersExclusion": "False",
-  "FIntRenderMaxShadowAtlasUsageBeforeDownscale": "1",
-  "DFFlagJointIrregularityOptimization": "True",
-  "FLogNetwork": "7",
-  "FFlagToastNotificationsProtocolEnabled2": "False",
-  "FFlagInExperienceUpsellSelfViewFix": "False",
-  "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
-  "FIntStudioWebView2TelemetryHundredthsPercent": "0",
-  "FFlagFixReducedMotionStuckIGM2": "True",
-  "FFlagNotificationPluginSignalRReadEvents": "False",
-  "FIntTextureCompositorLowResFactor": "4",
-  "FFlagDebugSelfViewPerfBenchmark": "False",
-  "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
-  "FIntDebugTextureManagerSkipMips": "8",
-  "DFFlagUnifyLegacyJointGeometry": "True",
-  "FFlagAXAdaptiveScrollingItemResetFix2": "True",
-  "FFlagLuaMenuPerfImprovements": "True",
-  "FFlagCAP1544UseNewDataSharingRollout": "False",
-  "FIntDirectionalAttenuationMaxPoints": "1",
-  "FIntCAP1209DataSharingTOSVersion": "0",
-  "DFIntDebugRestrictGCDistance": "1",
-  "DFFlagEnablePerfRenderStatsCollection2": "false",
-  "FFlagEnableVisBugChecks27": "True",
-  "FIntFRMMaxGrassDistance": "0",
-  "DFFlagEnableExperienceNotificationOptInPrompt": "False",
-  "FFlagAXSearchLandingPageIXPEnabled4": "False",
-  "FFlagClientToastNotificationsEnabled": "False",
-  "FFlagImproveShiftLockTransition": "True",
-  "FFlagFixChunkLightingUpdate2": "True",
-  "DFFlagSimOptimizeSetSize": "True",
-  "FStringGetPlayerImageDefaultTimeout": "1",
-  "FFlagLoginPageOptimizedPngs": "True",
-  "FFlagChatTranslationEnableSystemMessage": "False",
-  "FFlagViewCollisionFadeToBlackInVR": "False",
-  "FFlagGraphicsGLEnableHQShadersExclusion": "False",
-  "FFlagPreferredTextSizeSettingBetaFeature": "True",
-  "FFlagEnableAudioEmitterDistanceAttenuation": "True",
-  "DFIntNumAssetsMaxToPreload": "2147483647",
-  "FFlagSquadToastNotificationsEnabled": "False",
-  "FFlagDebugDisableTelemetryV2Event": "True",
-  "DFFlagTeleportPreloadingMetrics5": "True",
-  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
-  "FFlagNewLightAttenuation": "True",
-  "FFlagEnableCullableScene2OptimizeStep": "True",
-  "FFlagFixSelfViewPopin": "False",
-  "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack": "False",
-  "FFlagMockOpenSelfViewForCameraUser": "False",
-  "FFlagRenderLegacyShadowsQualityRefactor": "True",
-  "DFIntTeleportClientAssetPreloadingHundredthsPercentage": "100000",
-  "DFFlagAudioToggleVolumetricPanning": "True",
-  "FFlagDebugDisableTelemetryV2Counter": "True",
-  "DFFlagSimRefactorCollisionGeometry2": "True",
-  "FFlagEnablePreferredTextSizeStyleFixesInExperienceMenu": "True",
-  "DFIntRakNetMtuValue2InBytes": "1150",
-  "FFlagAvatarChatIncludeSelfViewOnTelemetry": "False",
-  "FFlagDebugStudioForceSystemDeprecationNotification": "False",
-  "DFFlagSimSkipVoxelCDECMerge": "True",
-  "FFlagEnablePreferredTextSizeStyleFixesInAppShell4": "True",
-  "DFIntDebugAdditionalNumberOfMipsToSkipForNonAlbedoTextures": "0",
-  "FFlagMigrateTextureManagerIsLocalAsset": "True",
-  "FFlagFixIGMBottomBarVisibility": "True",
-  "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
-  "FFlagDebugEnableDirectAudioOcclusion2": "True",
-  "FFlagRenderOptimizeDecalTransparencyInvalidation": "True",
-  "DFFlagEnableMeshPreloading2": "True",
-  "FIntRenderShadowIntensity": "0",
-  "FFlagSelfViewCameraDefaultButtonInViewPort": "False",
-  "DFIntVoiceChatMaxRecordedDataDeliveryIntervalMs": "2147483647",
-  "FFlagEnableVRFTUXExperienceV2": "True",
-  "FFlagSelfViewTweaksPass": "False",
-  "DFFlagAudioEnableVolumetricPanningForPolys": "True",
-  "FFlagDisableFeedbackSoothsayerCheck": "False",
-  "FFlagOcclusionCullingBetaFeature": "True",
-  "FFlagRenderLightGridEfficientTextureAtlasUpdate": "True",
-  "FIntTargetRefreshRate": "144",
-  "FIntDebugFRMOptionalMSAALevelOverride": "0",
-  "FFlagFixIGMTabTransitions": "True",
-  "FFlagAssetPreloadingIXP": "True",
-  "DFFlagAssetPreloadingUrlVersionEnabled2": "True",
-  "DFFlagDisableDPIScale": "False",
-  "FFlagPreferredTextSizeStyleFixEventDescriptionExperienceTile": "True",
-  "DFFlagAdsPreloadInteractivityAssets": "True",
-  "DFIntTextureQualityOverride": "0",
-  "DFIntAnimationLodFacsVisibilityDenominator": "0",
-  "FFlagShoeSkipRenderMesh": "False",
-  "FFlagVRLaserPointerOptimization": "True",
-  "FFlagSignalRNotificationManagerMaybeStart": "False",
-  "FFlagDebugCheckRenderThreading": "True",
-  "FIntTaskSchedulerThreadMin": "3",
-  "DFIntRakNetMtuValue3InBytes": "1100",
-  "FFlagToastNotificationsReceivedAndDismissedSignals": "False",
-  "FFlagUserShowGuiHideToggles": "True",
-  "FFlagEnableBubbleChatFromChatService": "False",
-  "FIntRenderShadowmapBias": "-1",
-  "FFlagDebugGraphicsPreferD3D11": "False",
-  "FFlagAXFixAdaptiveScrollingSnapAndroid": "True",
-  "FFlagDebugDisableTelemetryV2Stat": "True",
-  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "20",
-  "FFlagFixParticleAttachmentCulling": "False",
-  "DFFlagEngineAPISendNotificationClientAnalytics": "False",
-  "FIntUnifiedLightingBlendZone": "1",
-  "FFlagSelfViewGetRidOfFalselyRenderedFaceDecal": "False",
-  "FFlagDebugRenderingSetDeterministic": "True",
-  "FFlagSortKeyOptimization": "True",
-  "FFlagEnableInGameMenuChromeABTest4": "True",
-  "DFIntDebugLimitMinTextureResolutionWhenSkipMips": "0",
-  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-  "FFlagLuaAppGenreUnderConstruction": "False",
-  "FFlagAXAdaptiveScrollingSnapItemEditor": "True",
-  "DFFlagOptimizePartsInPart": "True",
-  "FFlagAdaptiveScrollingFrameOnServer": "True",
-  "DFFlagEnableTexturePreloading": "True",
-  "FFlagRenderNoLowFrmBloom": "False",
-  "DFFlagTeleportClientAssetPreloadingEnabledIXP": "True",
-  "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True",
-  "FIntBloomFrmCutoff": "-1",
-  "FFlagPreloadTextureItemsOption4": "True",
-  "FFlagEnablePreferredTextSizeStyleFixesInCaptureMenu": "True",
-  "FFlagSyncWebViewCookieToEngine2": "False",
-  "FIntRakNetResendBufferArrayLength": "128",
-  "FFlagOptimizeNetwork": "True",
-  "FFlagOptimizeNetworkRouting": "True",
-  "FFlagOptimizeNetworkTransport": "True",
-  "FFlagOptimizeServerTickRate": "True",
-  "DFIntServerPhysicsUpdateRate": "60",
-  "DFIntServerTickRate": "60",
-  "DFIntConnectionMTUSize": 900,
-  "DFIntRakNetResendRttMultiple": "1",
-  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
-  "DFIntOptimizePingThreshold": "50",
-  "DFIntPlayerNetworkUpdateQueueSize": "20",
-  "DFIntPlayerNetworkUpdateRate": "60",
-  "DFIntNetworkPrediction": "120",
-  "DFIntNetworkLatencyTolerance": "1",
-  "DFIntLargePacketQueueSizeCutoffMB": "1000",
-  "DFIntMaxProcessPacketsJobScaling": "10000",
-  "DFIntMaxProcessPacketsStepsAccumulated": "0",
-  "DFIntMaxProcessPacketsStepsPerCyclic": "5000",
-  "DFIntMegaReplicatorNetworkQualityProcessorUnit": "10",
-  "DFIntRakNetLoopMs": "1",
-  "DFIntWaitOnRecvFromLoopEndedMS": "100",
-  "DFIntWaitOnUpdateNetworkLoopEndedMS": "100",
-  "DFIntRaknetBandwidthInfluxHundredthsPercentageV2": "10000",
-  "DFIntCodecMaxIncomingPackets": "100",
-  "DFIntCodecMaxOutgoingFrames": "10000"
-}
+-- FPS Booster / Anti-Lag para Delta Executor
+-- Hace que los recursos carguen y se rendericen más rápido
+
+local Lighting = game:GetService("Lighting")
+local Terrain = workspace:FindFirstChildOfClass("Terrain")
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+-- Bajar calidad gráfica al máximo
+pcall(function()
+    settings().Rendering.QualityLevel = Enum.QualityLevel.Level01
+end)
+
+-- Optimizar Lighting
+Lighting.GlobalShadows = false
+Lighting.FogEnd = 9e9
+Lighting.Brightness = 1
+Lighting.ClockTime = 14
+Lighting.GeographicLatitude = 0
+pcall(function()
+    Lighting.Technology = Enum.Technology.Compatibility
+end)
+
+-- Quitar efectos pesados
+for _, v in pairs(Lighting:GetChildren()) do
+    if v:IsA("BloomEffect") or v:IsA("BlurEffect") or v:IsA("ColorCorrectionEffect") or v:IsA("SunRaysEffect") or v:IsA("DepthOfFieldEffect") then
+        v.Enabled = false
+    end
+end
+
+-- Optimizar Terrain (si existe)
+if Terrain then
+    Terrain.WaterWaveSize = 0
+    Terrain.WaterWaveSpeed = 0
+    Terrain.WaterReflectance = 0
+    Terrain.WaterTransparency = 1
+end
+
+-- Limpiar partes y efectos del mapa
+local function optimize(obj)
+    if obj:IsA("BasePart") then
+        obj.Material = Enum.Material.Plastic
+        obj.Reflectance = 0
+        obj.CastShadow = false
+    elseif obj:IsA("Decal") or obj:IsA("Texture") then
+        obj.Transparency = 1
+    elseif obj:IsA("ParticleEmitter") or obj:IsA("Trail") or obj:IsA("Smoke") or obj:IsA("Fire") or obj:IsA("Sparkles") then
+        obj.Enabled = false
+    elseif obj:IsA("MeshPart") then
+        obj.TextureID = ""
+    end
+end
+
+for _, v in pairs(workspace:GetDescendants()) do
+    optimize(v)
+end
+
+workspace.DescendantAdded:Connect(optimize)
+
+-- Reducir calidad de personajes
+local function optimizeCharacter(char)
+    if not char then return end
+    for _, v in pairs(char:GetDescendants()) do
+        if v:IsA("BasePart") then
+            v.CastShadow = false
+            v.Material = Enum.Material.Plastic
+        elseif v:IsA("Decal") or v:IsA("Texture") then
+            v.Transparency = 1
+        elseif v:IsA("ParticleEmitter") or v:IsA("Trail") then
+            v.Enabled = false
+        end
+    end
+end
+
+if LocalPlayer.Character then
+    optimizeCharacter(LocalPlayer.Character)
+end
+LocalPlayer.CharacterAdded:Connect(optimizeCharacter)
+
+-- Quitar sombras de otros jugadores
+for _, plr in pairs(Players:GetPlayers()) do
+    if plr ~= LocalPlayer and plr.Character then
+        optimizeCharacter(plr.Character)
+    end
+end
+Players.PlayerAdded:Connect(function(plr)
+    plr.CharacterAdded:Connect(function(
