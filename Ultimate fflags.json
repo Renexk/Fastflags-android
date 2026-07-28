@@ -348,7 +348,6 @@
   "FFlagDebugGraphicsPreferVulkan": "False",
   "FFlagDebugGraphicsPreferOpenGL": "False",
   "FIntGrassMovementReducedMotionFactor": "0",
-  "FFlagDebugDisplayFPS": "True",
   "FIntRakNetResendBufferArrayLength": "128",
   "FFlagOptimizeNetwork": "True",
   "FFlagOptimizeNetworkRouting": "True",
