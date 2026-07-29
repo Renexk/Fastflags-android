@@ -307,7 +307,6 @@
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
   "FFlagRenderEnableGlobalInstancingD3D10": "True",
   "FIntTaskSchedulerThreadMin": "3",
-  "FFlagGraphicsGLEnableSuperHQShadersExclusion": "False",
   "FFlagNotificationPluginSignalRReadEvents": "False",
   "FFlagEnableRemoveIsFromToastNotification": "False",
   "DFFlagEngineAPISendNotificationClientAnalytics": "False",
